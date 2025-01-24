@@ -1,0 +1,22 @@
+@import url("normalize.css");
+@import url("buttons.css");
+
+:root {
+    --color-primary: navy;
+    --color-secondary: pink;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.site-header{
+    height: 100vh;
+    background-image: url("../images/neige.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    
+
+}
